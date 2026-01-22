@@ -1,0 +1,5 @@
+{
+  "name": "Native Audio Player",
+  "description": "A high-performance local music player that scans your device for audio files with a native mobile UI.",
+  "requestFramePermissions": []
+}
